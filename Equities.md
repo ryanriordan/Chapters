@@ -3,7 +3,7 @@
 title: "Equities"
 author      : Ryan Riordan
 
-This is a change in status.
+This is a change in status. Next change.
 
 ---
 
